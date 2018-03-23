@@ -1,0 +1,4 @@
+TC1: The user should be able to login into TMS
+TC@: The  user should be able to select the travel source and destination
+TC3: The user should be able to view the booking details
+TC4: The user should be able to log out from application
